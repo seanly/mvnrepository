@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>xyz.lysean.jenkinsci.plugins</groupId>
-  <artifactId>abs-plugin</artifactId>
+  <artifactId>xsl-report-plugin</artifactId>
   <versioning>
     <release>3.0</release>
     <versions>
       <version>3.0</version>
     </versions>
-    <lastUpdated>20160411091232</lastUpdated>
+    <lastUpdated>20160411095910</lastUpdated>
   </versioning>
 </metadata>
