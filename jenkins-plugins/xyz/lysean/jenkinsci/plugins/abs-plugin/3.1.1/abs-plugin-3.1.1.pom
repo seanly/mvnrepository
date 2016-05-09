@@ -10,8 +10,8 @@
         <relativePath/>
     </parent>
     <groupId>xyz.lysean.jenkinsci.plugins</groupId>
-    <artifactId>xsl-report-plugin</artifactId>
-    <version>3.0</version>
+    <artifactId>abs-plugin</artifactId>
+    <version>3.1.1</version>
     <packaging>hpi</packaging>
 
     <name>XSL Report Plugin</name>
